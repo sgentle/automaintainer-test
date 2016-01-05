@@ -1,5 +1,8 @@
 {
   "rules": {
+    "voter": {
+      "pulls": 1
+    },
     "accept_pull": {
       "votes": 2
     }
