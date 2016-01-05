@@ -7,7 +7,10 @@
       "votes": 2
     }
   },
-  "voters": [],
+  "voters": [
+    "automaintainer",
+    "sgentle"
+  ],
   "collaborators": [
     "automaintainer",
     "sgentle"
