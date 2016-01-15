@@ -1,7 +1,5 @@
 # Testing
 
-Even more new content!
+Welcome to the sandbox!
 
 With added testing. Actually, no testing. Oops.
-
-Hi!
